@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Han-park/cra-test-2/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Han-park/cra-test-2/static/js/main.a37c1f99.chunk.js",
+    "main.js.map": "/Han-park/cra-test-2/static/js/main.a37c1f99.chunk.js.map",
+    "runtime-main.js": "/Han-park/cra-test-2/static/js/runtime-main.5ce0ed6d.js",
+    "runtime-main.js.map": "/Han-park/cra-test-2/static/js/runtime-main.5ce0ed6d.js.map",
+    "static/js/2.17183b8a.chunk.js": "/Han-park/cra-test-2/static/js/2.17183b8a.chunk.js",
+    "static/js/2.17183b8a.chunk.js.map": "/Han-park/cra-test-2/static/js/2.17183b8a.chunk.js.map",
+    "static/js/3.f442b96e.chunk.js": "/Han-park/cra-test-2/static/js/3.f442b96e.chunk.js",
+    "static/js/3.f442b96e.chunk.js.map": "/Han-park/cra-test-2/static/js/3.f442b96e.chunk.js.map",
+    "index.html": "/Han-park/cra-test-2/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Han-park/cra-test-2/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.17183b8a.chunk.js.LICENSE.txt": "/Han-park/cra-test-2/static/js/2.17183b8a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Han-park/cra-test-2/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ce0ed6d.js",
+    "static/js/2.17183b8a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a37c1f99.chunk.js"
+  ]
+}
